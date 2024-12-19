@@ -1,91 +1,79 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terms and Conditions - KK Dialogues</title>
-</head>
-<body>
-    <h1>Terms and Conditions</h1>
-    <p><strong>Effective Date:</strong> December 19, 2024</p>
+Terms and Conditions
 
-    <p>Welcome to <strong>KK Dialogues</strong> (“the App”). By downloading, accessing, or using the App, you agree to be bound by these Terms and Conditions (“Terms”). Please read these Terms carefully before using the App. If you do not agree to these Terms, do not use the App.</p>
+Effective Date: December 19, 2024
 
-    <h2>1. Acceptance of Terms</h2>
-    <p>By accessing or using the App, you confirm that you have read, understood, and agree to these Terms. You also agree to comply with all applicable laws and regulations.</p>
+Welcome to KK Dialogues (“the App”). By downloading, accessing, or using the App, you agree to be bound by these Terms and Conditions (“Terms”). Please read these Terms carefully before using the App. If you do not agree to these Terms, do not use the App.
 
-    <h2>2. User Eligibility</h2>
-    <p>You must be at least 14 years old to use the App. By using the App, you confirm that you meet this requirement.</p>
+1. Acceptance of Terms
 
-    <h2>3. User Responsibilities</h2>
-    <p>When using the App, you agree to:</p>
-    <ul>
-        <li>Use the App in a lawful manner.</li>
-        <li>Provide accurate and up-to-date information if required.</li>
-        <li>Not engage in any activity that disrupts or interferes with the App’s operations.</li>
-    </ul>
-    <p>You are prohibited from:</p>
-    <ul>
-        <li>Using the App for fraudulent or harmful purposes.</li>
-        <li>Uploading content that is unlawful, offensive, or infringes on others' rights.</li>
-        <li>Reverse-engineering or tampering with the App’s software.</li>
-    </ul>
+By accessing or using the App, you confirm that you have read, understood, and agree to these Terms. You also agree to comply with all applicable laws and regulations.
 
-    <h2>4. Data Collection and Use</h2>
-    <p>The App collects the following personal information from users:</p>
-    <ul>
-        <li>Email Address</li>
-        <li>Name</li>
-        <li>User Comments</li>
-    </ul>
-    <p>This data is used to personalize your experience and to enable communication within the App. By using the App, you consent to the collection and use of this data as described.</p>
+2. User Eligibility
 
-    <p><strong>Data Retention and Deletion:</strong></p>
-    <ul>
-        <li>Your email address and name will be stored for as long as your account remains active.</li>
-        <li>If you choose to delete your account, your email address and name will be permanently removed from our records.</li>
-    </ul>
+You must be at least 14 years old to use the App. By using the App, you confirm that you meet this requirement.
 
-    <h2>5. Intellectual Property Rights</h2>
-    <p>All content within the App, including text, images, logos, and software, is owned by or licensed to KM Dialogues and is protected by intellectual property laws.</p>
-    <p>You may not reproduce, distribute, or modify any content without prior written consent.</p>
+3. User Responsibilities
 
-   <h2>6. Account Management</h2>
-   <p>Registration:</p>
-<ul>
-    <li>You are required to register using your Gmail account. This allows the App to securely authenticate and personalize your experience.</li>
-    <li>You must provide accurate and up-to-date information during the registration process. Inaccurate or incomplete information may result in limited access to certain features of the App.</li>
-    <li>Your Gmail account will be used to store your email address and name, which will be retained for as long as your account remains active.</li>
-    <li>If you wish to delete your account, you can do so via the settings within the App. Once your account is deleted, your email address and name will be permanently removed from our records.</li>
-    <li>You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.</li>
-    <li>If you suspect any unauthorized use of your account or any security breach, you must immediately notify us and take necessary action to secure your account (e.g., change your password).</li>
-    <li>KM Dialogues reserves the right to suspend or terminate your account if you violate these Terms or engage in fraudulent or harmful activities.</li>
-</ul>
+When using the App, you agree to:
 
-	<ul>
-        <li>You are responsible for maintaining the confidentiality of your account credentials.</li>
-        <li>KM Dialogues reserves the right to suspend or terminate your account if you violate these Terms.</li>
-    </ul>
+Use the App in a lawful manner.
+Provide accurate and up-to-date information if required.
+Not engage in any activity that disrupts or interferes with the App’s operations.
+You are prohibited from:
 
-    <h2>7. Disclaimer of Warranties</h2>
-    <p>The App is provided “as is” and “as available,” without any warranties of any kind, either express or implied. KM Dialogues does not guarantee that the App will be error-free, secure, or uninterrupted.</p>
+Using the App for fraudulent or harmful purposes.
+Uploading content that is unlawful, offensive, or infringes on others' rights.
+Reverse-engineering or tampering with the App’s software.
+4. Data Collection and Use
 
-    <h2>8. Limitation of Liability</h2>
-    <p>KM Dialogues will not be liable for any indirect, incidental, or consequential damages arising from your use of the App, including data loss or third-party issues.</p>
+The App collects the following personal information from users:
 
-    <h2>9. Changes to Terms</h2>
-    <p>We may update these Terms from time to time. The updated Terms will be effective as of the date of posting. It is your responsibility to review the Terms periodically.</p>
+Email Address
+Name
+User Comments
+This data is used to personalize your experience and to enable communication within the App. By using the App, you consent to the collection and use of this data as described.
 
-    <h2>10. Termination</h2>
-    <p>We reserve the right to terminate your access to the App at any time, without prior notice, if you violate these Terms.</p>
+Data Retention and Deletion:
 
-    <h2>12. Governing Law</h2>
-    <p>These Terms are governed by the laws of Madhya Pradesh, India. Any disputes will be resolved in the courts of Madhya Pradesh,India.</p>
+Your email address and name will be stored for as long as your account remains active.
+If you choose to delete your account, your email address and name will be permanently removed from our records.
+5. Intellectual Property Rights
 
-    <h2>13. Contact Information</h2>
-    <p>If you have any questions or concerns about these Terms, please contact us at:</p>
-    <ul>
-        <li>Email: krishnakant.aidev@gmail.com</li>
-    </ul>
-</body>
-</html>
+All content within the App, including text, images, logos, and software, is owned by or licensed to KK Dialogues and is protected by intellectual property laws. You may not reproduce, distribute, or modify any content without prior written consent.
+
+6. Account Management
+
+Registration:
+
+You are required to register using your Gmail account. This allows the App to securely authenticate and personalize your experience.
+You must provide accurate and up-to-date information during the registration process. Inaccurate or incomplete information may result in limited access to certain features of the App.
+Your Gmail account will be used to store your email address and name, which will be retained for as long as your account remains active.
+If you wish to delete your account, you can do so via the settings within the App. Once your account is deleted, your email address and name will be permanently removed from our records.
+You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+If you suspect any unauthorized use of your account or any security breach, you must immediately notify us and take necessary action to secure your account (e.g., change your password).
+KK Dialogues reserves the right to suspend or terminate your account if you violate these Terms or engage in fraudulent or harmful activities.
+7. Disclaimer of Warranties
+
+The App is provided “as is” and “as available,” without any warranties of any kind, either express or implied. KK Dialogues does not guarantee that the App will be error-free, secure, or uninterrupted.
+
+8. Limitation of Liability
+
+KK Dialogues will not be liable for any indirect, incidental, or consequential damages arising from your use of the App, including data loss or third-party issues.
+
+9. Changes to Terms
+
+We may update these Terms from time to time. The updated Terms will be effective as of the date of posting. It is your responsibility to review the Terms periodically.
+
+10. Termination
+
+We reserve the right to terminate your access to the App at any time, without prior notice, if you violate these Terms.
+
+11. Governing Law
+
+These Terms are governed by the laws of Madhya Pradesh, India. Any disputes will be resolved in the courts of Madhya Pradesh, India.
+
+12. Contact Information
+
+If you have any questions or concerns about these Terms, please contact us at:
+
+Email: krishnakant.aidev@gmail.com
